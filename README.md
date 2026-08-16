@@ -42,6 +42,13 @@ technical_background:
     "Intern - A2C Automotive - Embedded Sub-System Development",
     "Intern - Thapar ELC - VLSI and FPGA Implementation",
   ]
-  
+tools:
+  [
+    "Kicad"
+    "STM, Renasas, Arduino"
+    "LTSpice"
+    "Keil Uvision"
+    "MATLAB"
+  ]  
 ```
   
