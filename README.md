@@ -24,7 +24,7 @@ located_in: Delhi, India
 current_job: Completing Btech in ECE with design in VLSI
 education:
   [
-    "Self-Taught Developer and Designer",
+    "Developer and Designer",
     "Bachelor's in Electronics and Communication",
   ]
 
